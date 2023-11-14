@@ -1,0 +1,8 @@
+---
+python_version: python3
+ansistrano_deploy_to: /mnt/persist/www/quartets
+database_name: postgres
+database_user: quartets
+project_slug: quartets
+domain_stage: stage.openline.site
+domain_prod: openline.site
